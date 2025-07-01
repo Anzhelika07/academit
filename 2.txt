@@ -1,0 +1,4 @@
+practical task 2
+line 1 from local repository
+line 2 from local repository
+new line from remote repository
